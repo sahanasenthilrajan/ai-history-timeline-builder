@@ -1,0 +1,58 @@
+{
+    "title": {
+        "media": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Artificial_Intelligence_&_AI_&_Machine_Learning_-_En_t%C3%AAte_-_N_01.jpg",
+            "caption": "The evolution from logic to learning."
+        },
+        "text": {
+            "headline": "A Journey Through AI & ML History",
+            "text": "Tracing the path from foundational mathematics to modern deep learning."
+        }
+    },
+    "events": [
+        {
+            "start_date": { "year": "1950" },
+            "media": {
+                "url": "https://youtu.be/mDG6-PToP5c",
+                "caption": "A brief explanation of the Turing Test."
+            },
+            "text": {
+                "headline": "The Turing Test",
+                "text": "Alan Turing publishes 'Computing Machinery and Intelligence,' proposing a test of a machine's ability to exhibit intelligent behavior."
+            }
+        },
+        {
+            "start_date": { "year": "1956" },
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/en/a/a2/Dartmouth_Workshop_Group_Photo.jpg",
+                "caption": "The birth of the field."
+            },
+            "text": {
+                "headline": "The Dartmouth Workshop",
+                "text": "John McCarthy and others organize the conference where the term 'Artificial Intelligence' was officially coined."
+            }
+        },
+        {
+            "start_date": { "year": "1997" },
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Kasparov_Magnum_Photos.jpg",
+                "caption": "Deep Blue vs. Garry Kasparov."
+            },
+            "text": {
+                "headline": "Deep Blue Defeats Kasparov",
+                "text": "IBM's Deep Blue becomes the first computer system to defeat a reigning world chess champion in a match."
+            }
+        },
+        {
+            "start_date": { "year": "2012" },
+            "media": {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/AlexNet_Architecture.png",
+                "caption": "The architecture of AlexNet."
+            },
+            "text": {
+                "headline": "The Deep Learning Explosion",
+                "text": "AlexNet wins the ImageNet competition by a large margin, signaling the start of the modern deep learning era."
+            }
+        }
+    ]
+}
